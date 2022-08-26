@@ -1,22 +1,26 @@
-TH RIGHT PRICE.....
+# The Price is Right
 
-Pick number
-Submit guesses
-Reveal the number
-Reveal the winning guess
+## Problem brief
 
-User(s) interface(s)
-Price Setter(P)
-Sets the price to be guessed.
-Sets duration of game.
-Set the wager.
-Reveals the winning guess.
-Who won?
+1. Pick a number
+1. Submit guesses
+1. Reveal the number
+1. Reveal the winning guess
 
-Guessers(G)
+## User(s) interface(s)
 
-Make a guess.
-If deadline not passed (game on).
-Submit the guess.
-Winners are funded.
-Losers lose wager.
+### Price Setter(P)
+
+- Sets the price to be guessed.
+- Sets duration of game.
+- Set the wager.
+- Reveals the winning guess.
+- Who won?
+
+### Guessers(G)
+
+- Make a guess.
+- If deadline not passed (game on).
+- Submit the guess.
+- Winners are funded.
+- Losers lose wager.
